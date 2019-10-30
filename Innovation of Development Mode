@@ -1,0 +1,9 @@
+From Windows, Foxmail to GitHub, people have never stopped to pursue a more convenient and powerful development platform. CODE hopes to lead the new development model. Before analyzing CODE, let's look at the evolution of the development model.
+
+Traditional development mode: every developer writes the code on their own computer and then integrates them to form a runnable product that runs on a local computer.
+
+Current development mode: create a project on GitHub so that every developer can deliver their code to GitHub. Then we can synchronize all the code from GitHub to a local environment, and run them locally.
+
+CODE is a new-style peer to peer technology development platform, the development mode of which is as following: for a project, developers of each module can develop respectively and submit their code to a public chain system based on POC (Proof of Code) and IPFS protocol; developers can call each other’s code and run directly on the system. Each developer has full ownership, modification right and income right to the code they submit. Moreover, they can update their modules at any time to optimize the project. The final product belongs completely to these developers. The income from the product will be directly distributed to each developer based on code size, or the difficulty of their code, etc.
+
+ 
