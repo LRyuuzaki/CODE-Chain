@@ -1,5 +1,4 @@
-# CODE-Chain
-a new-style peer to peer development platform
+# CODE-Chain  a new-style peer to peer development platform
 
 Hi everyone, I’m L. I can be no one or anyone. I want to build a new-style peer to peer development platform CODE Chain, so that the code we submit can run and share procedures directly in a decentralized environment without any company or individual as intermediaries. 
 
